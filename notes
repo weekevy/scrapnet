@@ -1,0 +1,29 @@
+
+languages : python, bash
+
+basic
+@I: * recon :
+
+    % niche : [location - region - name - states] (linkend, facebook, waybackmachine, clutch.io realitor.io, reddit, yelp)
+      search engines : google.com , yahoo.com, yandex.com, duckduckgo, bing.com, leaked dbs tor
+        - web scraping [dorking] : analyze html response
+        - filter : emails, companynames, address, posts 
+
+@II: * data analyze :      
+    % deep analysis :
+        - priority depend posts 
+        - analyzing fiancal data if (existed)  
+
+
+    % validation 
+        - check email validity : by checking the response
+        - validation phones number for whattssap exitence
+
+    
+
+
+
+
+
+
+
